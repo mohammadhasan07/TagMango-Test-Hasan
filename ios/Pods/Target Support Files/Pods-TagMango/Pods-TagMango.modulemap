@@ -1,0 +1,6 @@
+module Pods_TagMango {
+  umbrella header "Pods-TagMango-umbrella.h"
+
+  export *
+  module * { export * }
+}
